@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* border: 0; */
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+nav {
+    text-align: left;
+}
+
+ul {
+    background-color: white;
+}
+
+ul.li {
+    color: red;
+}
+
+ul.li.a {
+    color: yellow;
+}
+
+main {
+    background-color: yellow;
+}
+
+
+.encabezado {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.colElemento {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+td {
+    background-color: darkgray;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
